@@ -66,11 +66,11 @@ else
 <header class="tempMenu">
     <ul>
        	<?php /*<li class="menuItem5"><a href="register" <?php if($page == 4){ echo('class="selected"'); } ?> >register</a></li>*/?>
-        <li class="menuItem4"><a href="developers.php" <?php if($page == 7){ echo('class="selected"'); } ?> >dream</a></li>
-        <li class="menuItem3"><a href="media.php" <?php if($page == 8){ echo('class="selected"'); } ?> >media</a></li>
+        <li class="menuItem4"><a href="developers" <?php if($page == 7){ echo('class="selected"'); } ?> >dream</a></li>
+        <li class="menuItem3"><a href="media" <?php if($page == 8){ echo('class="selected"'); } ?> >media</a></li>
     	
-        <li class="menuItem2"><a href="location.php" <?php if($page == 3){ echo('class="selected"'); } ?> >location</a></li>
-        <li class="menuItem1"><a href="ivy.php" <?php if($page == 2){ echo('class="selected"'); } ?> >ivy</a></li>
+        <li class="menuItem2"><a href="location" <?php if($page == 3){ echo('class="selected"'); } ?> >location</a></li>
+        <li class="menuItem1"><a href="ivy" <?php if($page == 2){ echo('class="selected"'); } ?> >ivy</a></li>
     </ul>
 </header>
 
